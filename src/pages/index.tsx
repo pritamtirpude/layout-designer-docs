@@ -35,7 +35,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="Comprehensive guide for building dynamic layout designers using Craft.js integrated with DevExtreme components. Learn drag-and-drop implementation, component wrapping, and visual editor development."
     >
       <HomepageHeader />
       <main>
