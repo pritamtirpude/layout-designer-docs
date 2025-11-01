@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "Drag & Drop Interface",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/drag_and_drop.svg").default,
     description: (
       <>
         Create stunning layouts with our intuitive drag-and-drop interface
@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "DevExtreme Integration",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/devextreme_Integration.svg").default,
     description: (
       <>
         Leverage the power of DevExtreme components seamlessly integrated with
@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Dynamic & Flexible",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    Svg: require("@site/static/img/dynamic_and_flexibility.svg").default,
     description: (
       <>
         Build dynamic layouts that adapt to your needs. Save, load, and share
