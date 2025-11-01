@@ -59,7 +59,7 @@ const config: Config = {
       title: "Layout Designer Documentation v1",
       logo: {
         alt: "Layout Designer Logo",
-        src: "img/logo.svg",
+        src: "img/excellon_logo.svg",
       },
       items: [],
     },
